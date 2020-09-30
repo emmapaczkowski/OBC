@@ -1,3 +1,3 @@
-hi my name is Emma!
+Hi my name is Emma!
 
-2nd try for nick's branch?
+Hi my name is Nick!
