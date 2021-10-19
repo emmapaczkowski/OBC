@@ -8,7 +8,7 @@ tobias was here
 
 
 
-my favourite colour is green
+my favourite colour is blue
 
 
 My Branch name sucks :(
@@ -16,3 +16,5 @@ My Branch name sucks :(
 Anthony was here
 
 Hi its jake
+
+hi my name is Alex!
