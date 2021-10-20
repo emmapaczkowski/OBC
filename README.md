@@ -19,4 +19,4 @@ Hi its jake
 
 Hi its Shenghao
 
-![alt text]([http://ridermagazine.com/wp-content/uploads/2019/02/Original-Super-Cub.jpg])
+![a_pic_of_a_bike]([http://ridermagazine.com/wp-content/uploads/2019/02/Original-Super-Cub.jpg])
