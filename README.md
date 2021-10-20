@@ -7,8 +7,7 @@ Nick's branch does not work >:(
 tobias was here
 
 
-
-my favourite colour is purple 
+my favourite colour is blue 
 
 
 My Branch name sucks :(
@@ -16,6 +15,11 @@ My Branch name sucks :(
 Anthony was here
 
 Hi its jake
+
+
+Stephen was here
+
+hey its matthew :|
 
 Hi its Shenghao
 
